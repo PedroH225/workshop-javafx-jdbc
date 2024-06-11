@@ -35,3 +35,4 @@ nbdist/
 # database properties
 
 application.properties
+db.properties
