@@ -35,7 +35,3 @@ nbdist/
 #eclipse
 .settings/
 
-# database properties
-
-application.properties
-db.properties
